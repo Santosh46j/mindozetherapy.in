@@ -11,7 +11,7 @@ Under Build and deployment, set the source to Deploy from a branch.
 Select the main branch and the / (root) folder.
 
 Click Save.
-View Site: Your site will be live at https://santosh46j.github.io/mindoze-therapy/#contact within a few minutes.
+View Site: Your site will be live at https://santosh46j.github.io/mindoze-therapy within a few minutes.
 
 📝 License
 This project was built for professional branding in emotional wellness.
