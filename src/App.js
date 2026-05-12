@@ -457,7 +457,7 @@ function App() {
                 <h3>{post.title}</h3>
                 <p className="blog-date">{post.date}</p>
                 <p>{post.excerpt}</p>
-                <a href="#" className="read-more">Read Article →</a>
+                <a href="#blog" className="read-more">Read Article →</a>
               </article>
             ))}
           </div>
